@@ -1,0 +1,13 @@
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\bin\Debug\ClientInfo.exe.config
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\bin\Debug\ClientInfo.exe
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\bin\Debug\ClientInfo.pdb
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\ClientInfo.csprojResolveAssemblyReference.cache
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\Interop.ADODB.dll
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\ClientInfo.csproj.ResolveComReference.cache
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\ClientInfo.Form1.resources
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\ClientInfo.Properties.Resources.resources
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\ClientInfo.csproj.GenerateResource.Cache
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\ClientInfo.csproj.CoreCompileInputs.cache
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\ClientInfo.exe
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\obj\Debug\ClientInfo.pdb
+C:\ITD\Term 3\C#\assignment\assignment6\ClientInfo\ClientInfo\bin\Debug\ClientDB.mdb
